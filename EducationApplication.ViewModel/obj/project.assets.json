@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PROJECTS\\Education Project\\EducationApplication\\EducationApplication.ViewModel\\EducationApplication.ViewModel.csproj",
+      "projectUniqueName": "C:\\PROJECTS\\educationapp_epam\\EducationApplication.ViewModel\\EducationApplication.ViewModel.csproj",
       "projectName": "EducationApplication.ViewModel",
-      "projectPath": "C:\\PROJECTS\\Education Project\\EducationApplication\\EducationApplication.ViewModel\\EducationApplication.ViewModel.csproj",
+      "projectPath": "C:\\PROJECTS\\educationapp_epam\\EducationApplication.ViewModel\\EducationApplication.ViewModel.csproj",
       "packagesPath": "C:\\Users\\Bakir\\.nuget\\packages\\",
-      "outputPath": "C:\\PROJECTS\\Education Project\\EducationApplication\\EducationApplication.ViewModel\\obj\\",
+      "outputPath": "C:\\PROJECTS\\educationapp_epam\\EducationApplication.ViewModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bakir\\AppData\\Roaming\\NuGet\\NuGet.Config",

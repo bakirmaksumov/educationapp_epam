@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tACA9wfTW+Zum4Pui8lpOe7bGFCg/ReE+dSmginCUhTV5jgmywJ0zZ5zXS1lxSLmohAIvCVWn0kGvsPi4i7j9w==",
+  "dgSpecHash": "PHbAwq+0yrBMOUh5BUmpSa4dCFvPxxROYFOygfE4jRf/E5PBwcNrJP0uCLFVXXBmLWhVv9t3OFRY39dqJzZRJQ==",
   "success": true,
-  "projectFilePath": "C:\\PROJECTS\\Education Project\\EducationApplication\\EducationApplication.API\\EducationApplication.API.csproj",
+  "projectFilePath": "C:\\PROJECTS\\educationapp_epam\\EducationApplication.API\\EducationApplication.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bakir\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Bakir\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

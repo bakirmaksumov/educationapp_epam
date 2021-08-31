@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PROJECTS\\Education Project\\EducationApplication\\EducationApplication.Model\\EducationApplication.Model.csproj": {}
+    "C:\\PROJECTS\\educationapp_epam\\EducationApplication.Model\\EducationApplication.Model.csproj": {}
   },
   "projects": {
-    "C:\\PROJECTS\\Education Project\\EducationApplication\\EducationApplication.Model\\EducationApplication.Model.csproj": {
+    "C:\\PROJECTS\\educationapp_epam\\EducationApplication.Model\\EducationApplication.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PROJECTS\\Education Project\\EducationApplication\\EducationApplication.Model\\EducationApplication.Model.csproj",
+        "projectUniqueName": "C:\\PROJECTS\\educationapp_epam\\EducationApplication.Model\\EducationApplication.Model.csproj",
         "projectName": "EducationApplication.Model",
-        "projectPath": "C:\\PROJECTS\\Education Project\\EducationApplication\\EducationApplication.Model\\EducationApplication.Model.csproj",
+        "projectPath": "C:\\PROJECTS\\educationapp_epam\\EducationApplication.Model\\EducationApplication.Model.csproj",
         "packagesPath": "C:\\Users\\Bakir\\.nuget\\packages\\",
-        "outputPath": "C:\\PROJECTS\\Education Project\\EducationApplication\\EducationApplication.Model\\obj\\",
+        "outputPath": "C:\\PROJECTS\\educationapp_epam\\EducationApplication.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bakir\\AppData\\Roaming\\NuGet\\NuGet.Config",

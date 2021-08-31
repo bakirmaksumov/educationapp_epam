@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PROJECTS\\Education Project\\EducationApplication\\EducationApplication.Data\\EducationApplication.Data.csproj",
+      "projectUniqueName": "C:\\PROJECTS\\educationapp_epam\\EducationApplication.Data\\EducationApplication.Data.csproj",
       "projectName": "EducationApplication.Data",
-      "projectPath": "C:\\PROJECTS\\Education Project\\EducationApplication\\EducationApplication.Data\\EducationApplication.Data.csproj",
+      "projectPath": "C:\\PROJECTS\\educationapp_epam\\EducationApplication.Data\\EducationApplication.Data.csproj",
       "packagesPath": "C:\\Users\\Bakir\\.nuget\\packages\\",
-      "outputPath": "C:\\PROJECTS\\Education Project\\EducationApplication\\EducationApplication.Data\\obj\\",
+      "outputPath": "C:\\PROJECTS\\educationapp_epam\\EducationApplication.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bakir\\AppData\\Roaming\\NuGet\\NuGet.Config",
